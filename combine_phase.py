@@ -1,3 +1,6 @@
+""" Written by Yuan Yao 
+    with python
+"""
 import os
 in_names = [r'phase_out1.dat', r'phase_out2.dat']
 out_name = 'phase_all.dat'
